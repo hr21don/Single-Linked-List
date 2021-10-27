@@ -5,7 +5,7 @@ A linked list created using the Node class.
 
 Insert your values using the insertion method as follows  for instance L_List.insert(23): L_List.insert(43) , L_List.insert(83) , L_List.insert(83) , L_List.insert(83) , L_List.insert(100) and call the print method 'L_List.print_List()' to display to the console. 
 
-## OutPut
+## Output
 
 The example console output would looke like this (23, 43 , 83 , 83 , 83 , 100). 
 
