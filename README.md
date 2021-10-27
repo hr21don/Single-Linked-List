@@ -3,11 +3,13 @@ A linked list created using the Node class.
 
 ##  How to use?
 
-Insert your values using the insertion method as follows  for instance L_List.insert(23): L_List.insert(43) , L_List.insert(83) , L_List.insert(83) , L_List.insert(83) , L_List.insert(100) and call the print method 'L_List.print_List()' prior to displaying to the console. 
+Insert your values using the insertion method as follows  for instance L_List.insert(x): L_List.insert(x) , L_List.insert(x) , L_List.insert(x) , L_List.insert(x) , L_List.insert(x) and call the print method 'L_List.print_List()' prior to displaying to the console. 
+
+Change values with (X) to a user-defined value. 
 
 ## Output
 
-The example console output calls the print method 'print_List()' at the end to display (23, 43 , 83 , 83 , 83 , 100). 
+The example console output calls the print method 'print_List()' at the end to display (x, x , x , x , x , x). 
 
 ### References
    GeeksforGeeks.org(2021).https://bit.ly/3CjVrYv. Date Accessed: 27/10/21
