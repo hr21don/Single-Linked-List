@@ -7,7 +7,7 @@ Insert your values using the insertion method as follows  for instance L_List.in
 
 ## Output
 
-The example console output calling the print method would display (23, 43 , 83 , 83 , 83 , 100). 
+The example console output calls the print method 'print_List()' at the end to display (23, 43 , 83 , 83 , 83 , 100). 
 
 ### References
    GeeksforGeeks.org(2021).https://bit.ly/3CjVrYv. Date Accessed: 27/10/21
